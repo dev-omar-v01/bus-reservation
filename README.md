@@ -1,4 +1,4 @@
-# bus_reservation_udemy
+# bus_reservation
 
 A new Flutter project.
 
